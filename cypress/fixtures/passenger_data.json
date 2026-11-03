@@ -5,7 +5,7 @@
   "SOURCE_STATION": "PUNE",
   "BOARDING_STATION": null,
   "DESTINATION_STATION": "NGP",
-  "TATKAL": true,
+  "TATKAL": false,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
